@@ -22,7 +22,19 @@
 </head>
 <body class="bg-gray-100">
 
-    <!-- The Header will go here -->
+    <!-- Header Section -->
+    <header class="bg-white shadow-sm">
+        <div class="container mx-auto px-6 py-4 flex justify-between items-center">
+            <!-- Website Logo/Name -->
+            <h1 class="text-xl font-bold text-gray-900">Pi Coin Lite</h1>
+            
+            <!-- Navigation Links -->
+            <nav>
+                <a href="#" class="text-gray-600 hover:text-blue-600 mr-4">Login</a>
+                <a href="#" class="bg-blue-600 text-white font-semibold px-4 py-2 rounded-lg text-sm hover:bg-blue-700 transition-colors">Register</a>
+            </nav>
+        </div>
+    </header>
 
 
     <!-- The Main Content will go here -->
