@@ -90,7 +90,14 @@
     </main>
 
     
-    <!-- The Footer will go here -->
+    <!-- Footer Section -->
+    <footer class="bg-gray-800 text-white py-8">
+        <div class="container mx-auto px-6 text-center">
+            <p class="font-bold">Pi Coin Lite</p>
+            <p class="text-sm text-gray-400 mt-2">&copy; 2024 Pi Coin Lite. All Rights Reserved.</p>
+            <p class="text-xs text-gray-500 mt-4">Disclaimer: Cryptocurrency investment is subject to high market risk. Please do your own research before investing.</p>
+        </div>
+    </footer>
 
 </body>
 </html>
