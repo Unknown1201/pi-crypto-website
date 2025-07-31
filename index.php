@@ -37,7 +37,57 @@
     </header>
 
 
-    <!-- The Main Content will go here -->
+    <!-- Main Content Section -->
+    <main>
+        <!-- Hero Section -->
+        <section class="text-center py-20 px-6 bg-white">
+            <div class="container mx-auto">
+                <h2 class="text-4xl md:text-5xl font-bold text-gray-900 mb-4">The Next Big Thing in Crypto is Here.</h2>
+                <p class="text-lg text-gray-600 max-w-2xl mx-auto mb-8">
+                    Join the Pi Coin Lite revolution. Pre-book now to secure your stake at an exclusive early-bird price and be part of a growing, forward-thinking community.
+                </p>
+                <a href="#" class="bg-blue-600 text-white font-bold px-8 py-4 rounded-lg inline-block text-lg shadow-md hover:bg-blue-700 transition-all duration-300 ease-in-out transform hover:scale-105">
+                    Secure Your Spot
+                </a>
+            </div>
+        </section>
+
+        <!-- Features Section -->
+        <section class="py-16">
+            <div class="container mx-auto px-6">
+                <div class="text-center mb-12">
+                    <h3 class="text-3xl font-bold text-gray-900">Why Pre-Book Pi Coin Lite?</h3>
+                    <p class="text-gray-500 mt-2">Get in on the ground floor and enjoy exclusive benefits.</p>
+                </div>
+                <div class="grid md:grid-cols-2 lg:grid-cols-4 gap-8">
+                    <!-- Feature 1 -->
+                    <div class="bg-white p-8 rounded-lg shadow-md text-center">
+                        <div class="text-4xl mb-4">📦</div>
+                        <h4 class="font-bold text-lg mb-2">Limited Initial Supply</h4>
+                        <p class="text-gray-600 text-sm">Early pre-booking ensures you're one of the few to hold Pi Coin Lite from the very beginning.</p>
+                    </div>
+                    <!-- Feature 2 -->
+                    <div class="bg-white p-8 rounded-lg shadow-md text-center">
+                        <div class="text-4xl mb-4">💰</div>
+                        <h4 class="font-bold text-lg mb-2">Attractive Entry Price</h4>
+                        <p class="text-gray-600 text-sm">Lock in a special, low price that won't be available after the official launch.</p>
+                    </div>
+                    <!-- Feature 3 -->
+                    <div class="bg-white p-8 rounded-lg shadow-md text-center">
+                        <div class="text-4xl mb-4">🤝</div>
+                        <h4 class="font-bold text-lg mb-2">Be an Early Supporter</h4>
+                        <p class="text-gray-600 text-sm">Your early support helps build the foundation for our community and future growth.</p>
+                    </div>
+                    <!-- Feature 4 -->
+                    <div class="bg-white p-8 rounded-lg shadow-md text-center">
+                        <div class="text-4xl mb-4">📈</div>
+                        <h4 class="font-bold text-lg mb-2">Huge Growth Potential</h4>
+                        <p class="text-gray-600 text-sm">We have big plans for exchange listings and building a robust ecosystem around the coin.</p>
+                    </div>
+                </div>
+            </div>
+        </section>
+    </main>
 
     
     <!-- The Footer will go here -->
